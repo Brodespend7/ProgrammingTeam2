@@ -1,5 +1,6 @@
 # ProgrammingTeam2
-# A Super Smash Bros with potatos game
+# Brohalla
+## A Super Smash Bros with potatos game
 
 # Player
 ## 
