@@ -20,4 +20,4 @@
 ![Brawlhala](https://github.com/Brodespend7/ProgrammingTeam2/blob/main/Images/Brawl.jpeg)
 ![Team Jobs](https://github.com/Brodespend7/ProgrammingTeam2/blob/main/Images/Team%20(1).jpg)
 
-![Brawlhala]()
+![steps](https://github.com/Brodespend7/ProgrammingTeam2/blob/main/Images/steps-of-game.jpg?raw=true)
