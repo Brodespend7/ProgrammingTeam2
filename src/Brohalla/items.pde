@@ -2,13 +2,15 @@
 
 class Items {
 // Member Variables
-int  x,y;
+int  x,y,w,h;
 PImage p1;
 
 // Constructor
 Items() {
  x = 20;
  y = 20;
+ w = 20;
+ h = 20;
  // p1 = loadImage("");
 
 }
@@ -16,7 +18,7 @@ Items() {
 // member methods
 void display() {
  rect(x,y);
-// image(p1,x,y,x,y);
+// image(p1,x,y,w,h);
 // TODO: add image and remove rect
 }
 
