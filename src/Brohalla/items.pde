@@ -17,7 +17,7 @@ Items() {
 
 // member methods
 void display() {
- rect(x,y);
+ rect(x,y,w,h);
 // image(p1,x,y,w,h);
 // TODO: add image and remove rect
 }
