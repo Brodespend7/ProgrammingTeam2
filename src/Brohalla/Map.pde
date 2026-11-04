@@ -13,7 +13,7 @@ y = 50;
 w = 50;
 h = 50;
 c1 = color(244,55,77);
-p1 = loadImage("");
+p1 = loadImage("https://github.com/Brodespend7/ProgrammingTeam2/blob/main/Images/Map.png?raw=true");
 
 }
 //Member Methods
