@@ -2,7 +2,10 @@
 
 void setup() {}
 
-void draw() {}
+void draw() {
+color c1;
+PImage p1; 
+}
 
 void keyPressed() {}
 
