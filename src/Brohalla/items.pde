@@ -14,7 +14,11 @@ Items() {
 }
 
 // member methods
-void display() {}
+void display() {
+ rect(x,y);
+// image(p1,x,y);
+// TODO: add image and remove rect
+}
 
 
 } 
