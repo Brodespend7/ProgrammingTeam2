@@ -1,1 +1,6 @@
 // Brodden Spendlove
+
+class GadgetsSpawn {
+
+
+}
