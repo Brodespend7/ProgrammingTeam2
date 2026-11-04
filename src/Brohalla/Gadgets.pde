@@ -1,12 +1,12 @@
 // Brodden spendlove
 
-class Items {
+class Gadgets {
 // Member Variables
 int  x,y,w,h;
 PImage p1;
 
 // Constructor
-Items() {
+Gadets() {
  x = 20;
  y = 20;
  w = 20;
