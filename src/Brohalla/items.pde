@@ -7,16 +7,16 @@ PImage p1;
 
 // Constructor
 Items() {
- x =
- y = 
- p1 = loadImage("");
+ x = 20;
+ y = 20;
+ // p1 = loadImage("");
 
 }
 
 // member methods
 void display() {
  rect(x,y);
-// image(p1,x,y);
+// image(p1,x,y,x,y);
 // TODO: add image and remove rect
 }
 
