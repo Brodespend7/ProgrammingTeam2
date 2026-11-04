@@ -22,3 +22,4 @@
 ![steps](https://github.com/Brodespend7/ProgrammingTeam2/blob/main/Images/steps-of-game.jpg?raw=true)
 ![GameTimeFrame](https://github.com/Brodespend7/ProgrammingTeam2/blob/main/Images/Timeframe.jpeg)
 ![Ty Job](https://github.com/Brodespend7/ProgrammingTeam2/blob/main/Images/Menu.gif?raw=true)
+![Draycen](https://github.com/Brodespend7/ProgrammingTeam2/blob/main/Images/Character1.gif?raw=true)
