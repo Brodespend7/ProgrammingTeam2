@@ -4,7 +4,7 @@ class Map {
 //Member variables
 int x,y,w,h;
 color c1;
-Pimage p1;
+PImage p1;
 
 //Constructor
 Map() {
