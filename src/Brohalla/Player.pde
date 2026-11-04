@@ -1,6 +1,6 @@
 // Draycen Worthington
 
-class player {
+class Player {
   // Member Variable
   int x,y,w,h,height,health;
   color C1;
