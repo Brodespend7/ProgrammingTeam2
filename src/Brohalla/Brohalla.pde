@@ -1,5 +1,5 @@
 // Ty Burbidge
-Player p1;
+Player p1,p2;
 
 void setup() {
   size(1000,1000);
