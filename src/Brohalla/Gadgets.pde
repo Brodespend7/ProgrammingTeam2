@@ -2,15 +2,16 @@
 
 class Gadgets {
 // Member Variables
-int  x,y,w,h;
+int  x,y,w,h, Gadgets;
 PImage p1;
 
 // Constructor
-Gadets() {
+ Gadgets() {
  x = 20;
  y = 20;
  w = 20;
  h = 20;
+ Gadgets = 9;
  // p1 = loadImage("");
 
 }
@@ -24,4 +25,3 @@ void display() {
 
 
 } 
-
