@@ -23,3 +23,4 @@ if (key == 'W' ||key == 'w') {
   }else if (key == 'D' ||key == 'd') {
     p1.move(D)
 }
+// TODO: ad a pause/start key
