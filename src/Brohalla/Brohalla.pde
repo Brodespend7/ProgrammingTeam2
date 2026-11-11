@@ -15,8 +15,7 @@ void draw() {
 
 void keyPressed() {
 if (key == 'W') {
-    println("You hit W" + keyCode);
-    handleEvent('W', true);
+   p1.move();
   }else if (key == 'S') {
     println("You hit S" + keyCode);
     handleEvent('S', true);
