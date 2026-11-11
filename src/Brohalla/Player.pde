@@ -19,7 +19,9 @@ Player() {
 
   // Member Methods
   void display() {}
-  void move(char dir) {}
+  void move(char dir) {
+  dir() {}
+  }
   void jump() {}
   void fire() {}
 
