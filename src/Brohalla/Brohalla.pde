@@ -14,20 +14,14 @@ void draw() {
 }
 
 void keyPressed() {
-if (key == 'W') {
-   p1.move();
-  }else if (key == 'S') {
-    println("You hit S" + keyCode);
-    handleEvent('S', true);
-  }else if (key == 'A') {
-    println("You hit A" + keyCode);
-    handleEvent('A', true);
-  }else if (key == 'D') {
-    println("You hit D" + keyCode);
-    handleEvent('D', true);
-  }else if (key == 'H') {
-    println("You hit Start" + keyCode);
-    handleEvent('H', true);
+if (key == 'W' ||key == 'w') {
+   p1.move('W');
+  }else if (key == 'S' ||key == 's') {
+    p1.move(S);
+  }else if (key == 'A' ||key == 'a') {
+    p1.move(A);  
+  }else if (key == 'D' ||key == 'd') {
+    p1.move(D);
   }
 }
 
