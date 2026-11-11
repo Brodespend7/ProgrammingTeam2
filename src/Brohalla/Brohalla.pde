@@ -26,14 +26,8 @@ if (key == 'W') {
   }else if (key == 'D') {
     println("You hit D" + keyCode);
     handleEvent('D', true);
-  }
-}
-
-void mousePressed() {
-  for (int i = 0; i < startButton.length; i++) {
-    if (startButton[i].hover) {
-      handleEvent(startButton[i].val, true);   
-      }
-    }
+  }else if (key == 'H') {
+    println("You hit Start" + keyCode);
+    handleEvent('H', true);
   }
 }
