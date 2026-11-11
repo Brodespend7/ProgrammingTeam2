@@ -21,11 +21,5 @@ if (key == 'W' ||key == 'w') {
   }else if (key == 'A' ||key == 'a') {
     p1.move(A);  
   }else if (key == 'D' ||key == 'd') {
-    p1.move(D);
-  }
-}
-
-void handleEvent() {
-
-
+    p1.move(D)
 }
