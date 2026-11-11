@@ -32,17 +32,7 @@ if (key == 'W') {
 void mousePressed() {
   for (int i = 0; i < startButton.length; i++) {
     if (startButton[i].hover) {
-      handleEvent(startButton[i].val, true);
-    
-      if (clicked == 'C') {
-        l = 0.0;
-        r=0.0;
-        result=0.0;
-        op = ' ';
-        left = true;
-        newEntry= true;
-        displayVal = "0.0";
-    
+      handleEvent(startButton[i].val, true);   
       }
     }
   }
